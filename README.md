@@ -1,5 +1,4 @@
 # hello-world
 Repository trial
 
-I'm trying. Its nice. Don't know what I'm doing though. Its cool. 
-Just graduated from the Business School. What am I doing here.
+New to GitHub. Excited for a new begining. Learned programming from my bioinformatics class. Grueling but a lot of fun. Also taking a course in Udacity for Android Basic. Udacity is amazing.
